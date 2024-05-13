@@ -1,1 +1,2 @@
 Hello-hello )
+Changed commit text editor, testing it.

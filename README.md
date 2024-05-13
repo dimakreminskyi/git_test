@@ -1,2 +1,4 @@
 # git_test
-My odin test repo
+
+My Odin test repo!
+Hello, Odin!
